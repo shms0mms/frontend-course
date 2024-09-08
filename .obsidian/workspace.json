@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "473cda6e860e6ee9",
+    "id": "4828536652b6e4d6",
     "type": "split",
     "children": [
       {
-        "id": "b983f7580896eeca",
+        "id": "c414307084028dfc",
         "type": "tabs",
         "children": [
           {
-            "id": "bc18565ab305a162",
+            "id": "70cabc5e7783d386",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
@@ -23,15 +23,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "4f4fcf63336d1fb7",
+    "id": "6c870bb6d8baecb1",
     "type": "split",
     "children": [
       {
-        "id": "86730ffd8e3dee87",
+        "id": "e3074c51425516f0",
         "type": "tabs",
         "children": [
           {
-            "id": "a489837dbc8a038d",
+            "id": "1d7305598a6d2f04",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "8d7a48cdf3dcf378",
+            "id": "40066005af7b1a19",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -56,7 +56,7 @@
             }
           },
           {
-            "id": "f6585ecc7dfe3645",
+            "id": "cc027cbc5158d630",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -67,18 +67,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
-    "id": "a7065253a098bb14",
+    "id": "67538eeb5c1355c2",
     "type": "split",
     "children": [
       {
-        "id": "75e57b987e912d5e",
+        "id": "68aa53baada624a7",
         "type": "tabs",
         "children": [
           {
-            "id": "d05db1d87b19d282",
+            "id": "8eed95274d675451",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -95,7 +95,7 @@
             }
           },
           {
-            "id": "feb8a1cef301bed8",
+            "id": "2cd2652170441591",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -107,7 +107,7 @@
             }
           },
           {
-            "id": "139d56452ea598eb",
+            "id": "27a8b1f7f38aa501",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -118,7 +118,7 @@
             }
           },
           {
-            "id": "f84285691284b5da",
+            "id": "847fbfd5911390ed",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -131,8 +131,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -142,15 +141,17 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a489837dbc8a038d",
+  "active": "8eed95274d675451",
   "lastOpenFiles": [
-    "Module 1/Verstka.md",
+    "Module 1/Layout.md",
     "course.excalidraw.md",
-    "test.excalidraw.md",
-    "Excalidraw",
-    "Untitled"
+    "Module 2/React.md",
+    "Module 2/Next.md",
+    "Module 2",
+    "Module 1"
   ]
 }
