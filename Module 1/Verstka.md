@@ -29,11 +29,11 @@
 	- единицы измерения (%, rem, em)
 	-  font-size, font-family, font-weight, color
 	- display
-3. Позиционирование + background
-4. Псевдо-классы, псевдо-элементы
-5. Анимация (transition, animation, transform)
-6. grid, flexbox
-7. Адаптив (картинок, блоков)
+2. Позиционирование + background
+3. Псевдо-классы, псевдо-элементы
+4. Анимация (transition, animation, transform)
+5. grid, flexbox
+6. Адаптив (картинок, блоков)
 
 ## SASS
 
@@ -42,3 +42,4 @@
 
 1. База
 	- как подключать js файлы 
+	- 
