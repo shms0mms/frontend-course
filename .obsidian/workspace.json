@@ -1,0 +1,156 @@
+{
+  "main": {
+    "id": "473cda6e860e6ee9",
+    "type": "split",
+    "children": [
+      {
+        "id": "b983f7580896eeca",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc18565ab305a162",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "course.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f4fcf63336d1fb7",
+    "type": "split",
+    "children": [
+      {
+        "id": "86730ffd8e3dee87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a489837dbc8a038d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8d7a48cdf3dcf378",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6585ecc7dfe3645",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a7065253a098bb14",
+    "type": "split",
+    "children": [
+      {
+        "id": "75e57b987e912d5e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d05db1d87b19d282",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "course.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "feb8a1cef301bed8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "course.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "139d56452ea598eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f84285691284b5da",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "course.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "a489837dbc8a038d",
+  "lastOpenFiles": [
+    "Module 1/Verstka.md",
+    "course.excalidraw.md",
+    "test.excalidraw.md",
+    "Excalidraw",
+    "Untitled"
+  ]
+}
