@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2cbfddb7209cb4e0",
+        "id": "b05294dfd7f23c0d",
         "type": "tabs",
         "children": [
           {
-            "id": "05effaea938925e4",
+            "id": "d5670d7e32686f06",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Lectures/Lecture 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Lectures/Lecture 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Lectures/Lecture 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1/Layout.md"
+                "file": "Lectures/Lecture 1.md"
               }
             }
           }
@@ -147,12 +147,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "05effaea938925e4",
+  "active": "d5670d7e32686f06",
   "lastOpenFiles": [
-    "Module 2/React.md",
-    "course.excalidraw.md",
-    "Module 2/Next.md",
     "Module 1/Layout.md",
+    "Lectures/Lecture 1.md",
+    "Module 2/React.md",
+    "Module 2/Next.md",
+    "Lectures",
+    "course.excalidraw.md",
     "Module 2",
     "Module 1"
   ]
