@@ -22,5 +22,13 @@
       ],
       "key": "PageUp"
     }
+  ],
+  "obsidian-git:fetch": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
   ]
 }
