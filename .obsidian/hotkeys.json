@@ -30,5 +30,13 @@
       ],
       "key": "F"
     }
+  ],
+  "obsidian-git:commit": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
   ]
 }
