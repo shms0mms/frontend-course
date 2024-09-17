@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "16e1a693835ca49e",
+        "id": "5c7f8387243e2b3e",
         "type": "tabs",
         "children": [
           {
-            "id": "7944bc18f97f6910",
+            "id": "c5cc1e751f31bef2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -148,10 +148,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7944bc18f97f6910",
+  "active": "c5cc1e751f31bef2",
   "lastOpenFiles": [
-    "assets/Pasted image 20240912000448.png",
+    "Lectures/Lecture 1.md",
     "Lectures/Lecture 2.md",
+    "course.excalidraw.md",
+    "assets/Pasted image 20240912000448.png",
     "Excalidraw/Drawing 2024-09-12 16.32.19.excalidraw.md",
     "Excalidraw",
     "assets/Lecture 2.rar",
@@ -160,8 +162,6 @@
     "Lecture 2 1.rar",
     "Lecture 2.rar",
     "Module 1/Layout.md",
-    "Lectures/Lecture 1.md",
-    "course.excalidraw.md",
     "Module 2/React.md",
     "Module 2/Next.md",
     "Module 2",
