@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e6c1a0c91527eeba",
+        "id": "14617300c3b13510",
         "type": "tabs",
         "children": [
           {
-            "id": "156d1647252a9dde",
+            "id": "0a6bf3aec0243038",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/1/Lecture.md",
+                "file": "Module 1/Layout.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/1/Lecture.md",
+                "file": "Module 1/Layout.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/1/Lecture.md",
+                "file": "Module 1/Layout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/1/Lecture.md"
+                "file": "Module 1/Layout.md"
               }
             }
           }
@@ -147,15 +147,22 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "156d1647252a9dde",
+  "active": "0a6bf3aec0243038",
   "lastOpenFiles": [
     "course.excalidraw.md",
+    "Module 1/Layout.md",
+    "Lectures/6/Lecture.md",
+    "Lectures/5/Lecture.md",
+    "Lectures/6",
+    "Lectures/5",
+    "Lectures/1/Lecture.md",
+    "Lectures/3/Lecture.md",
+    "Lectures/4/Lecture.md",
+    "Lectures/4",
+    "Домашка.md",
+    "Lectures/2/Lecture.md",
     "Module 2/React.md",
     "Module 2/Next.md",
-    "Module 1/Layout.md",
-    "Lectures/3/Lecture.md",
-    "Lectures/2/Lecture.md",
-    "Lectures/1/Lecture.md",
     "Lectures/1",
     "Lectures/2",
     "assets/Pasted image 20240912000448.png",
@@ -167,9 +174,6 @@
     "Excalidraw",
     "Lectures/lecture 3/homework 1.psd",
     "Lectures/3/homework.psd",
-    "Lectures/3",
-    "homework.psd",
-    "Lectures/Lecture 3.md",
-    "Lectures"
+    "Lectures/Lecture 3.md"
   ]
 }
