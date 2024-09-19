@@ -1,14 +1,26 @@
 {
   "main": {
-    "id": "4828536652b6e4d6",
+    "id": "0e386b0012ab18f3",
     "type": "split",
     "children": [
       {
-        "id": "14617300c3b13510",
+        "id": "067dad8cd4f3a192",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6bf3aec0243038",
+            "id": "a1492e9a4d562d83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/4/Lecture.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "290084d418e4f831",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,15 +37,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "6c870bb6d8baecb1",
+    "id": "97494f0f84bcac9c",
     "type": "split",
     "children": [
       {
-        "id": "e3074c51425516f0",
+        "id": "cb6f562de86338a2",
         "type": "tabs",
         "children": [
           {
-            "id": "1d7305598a6d2f04",
+            "id": "e37fb5bfae55afcb",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +55,7 @@
             }
           },
           {
-            "id": "40066005af7b1a19",
+            "id": "98ebd9987832e8d4",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +70,7 @@
             }
           },
           {
-            "id": "cc027cbc5158d630",
+            "id": "630a288c63fc2177",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -72,22 +84,22 @@
     "width": 300
   },
   "right": {
-    "id": "67538eeb5c1355c2",
+    "id": "f69f5ec31857ade5",
     "type": "split",
     "children": [
       {
-        "id": "68aa53baada624a7",
+        "id": "5bc79730813632ce",
         "type": "tabs",
         "children": [
           {
-            "id": "8eed95274d675451",
+            "id": "cc1405dc90d021b8",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1/Layout.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Lectures/4/Lecture.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -97,19 +109,19 @@
             }
           },
           {
-            "id": "2cd2652170441591",
+            "id": "d0f17d25fa997e46",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Lectures/4/Lecture.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "27a8b1f7f38aa501",
+            "id": "4c837863332a03e9",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +132,12 @@
             }
           },
           {
-            "id": "847fbfd5911390ed",
+            "id": "127454d61f606d2f",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1/Layout.md"
+                "file": "Lectures/4/Lecture.md"
               }
             }
           }
@@ -133,47 +145,55 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0a6bf3aec0243038",
+  "active": "a1492e9a4d562d83",
   "lastOpenFiles": [
-    "course.excalidraw.md",
+    "Lectures/4/Lecture.excalidraw.md",
     "Module 1/Layout.md",
-    "Lectures/6/Lecture.md",
-    "Lectures/5/Lecture.md",
-    "Lectures/6",
-    "Lectures/5",
-    "Lectures/1/Lecture.md",
-    "Lectures/3/Lecture.md",
     "Lectures/4/Lecture.md",
-    "Lectures/4",
-    "Домашка.md",
+    "Lectures/3/Lecture.md",
     "Lectures/2/Lecture.md",
-    "Module 2/React.md",
-    "Module 2/Next.md",
-    "Lectures/1",
-    "Lectures/2",
-    "assets/Pasted image 20240912000448.png",
+    "assets/Pasted Image 20240919133920_323.png",
     "Excalidraw/Drawing 2024-09-12 16.32.19.excalidraw.md",
     "Excalidraw/Drawing 2024-09-17 19.42.16.excalidraw.md",
-    "conflict-files-obsidian-git.md",
-    "assets/Lecture 2.rar",
-    "assets",
-    "Excalidraw",
-    "Lectures/lecture 3/homework 1.psd",
+    "Excalidraw/Drawing 2024-09-19 13.42.20.excalidraw.md",
+    "Pasted Image 20240919133850_160.png",
+    "Pasted Image 20240919133831_907.png",
+    "Lectures/1/Lecture.excalidraw.md",
+    "course.excalidraw.md",
+    "Lectures/1/Lecture.md",
+    "Lectures/Lecture 2.md",
+    "Lectures/6/Lecture.md",
+    "Lectures/6",
+    "Lectures/5/Lecture.md",
+    "Lectures/5",
+    "Lectures/4",
     "Lectures/3/homework.psd",
-    "Lectures/Lecture 3.md"
+    "Lectures/3",
+    "Lectures/2",
+    "Lectures/1",
+    "conflict-files-obsidian-git.md",
+    "Lectures/lecture 3/Lectures 3.md",
+    "homework.psd",
+    "Lectures/lecture 3/homework.psd",
+    "Lectures/lecture 3",
+    "Lectures/Lecture 1.md",
+    "assets/Pasted image 20240912000448.png",
+    "Module 2/React.md",
+    "Module 2/Next.md"
   ]
 }

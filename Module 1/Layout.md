@@ -55,7 +55,6 @@
 ## 4 урок
 
 - Проверка домашки
-- Практика весь урок
 
 1.  Повторение CSS 
 2. margin, padding, opacity, text-decoration
@@ -63,6 +62,7 @@
 4. Подключение шрифтов (google fonts и локально)
 5. Обучение работы в Figma (просто)
 6. Создание простого сайта в котором будет только секция "**hero**" (найти макет)
+	1. [макет](https://www.figma.com/file/Fn88HQzfmrE7xCHG0yPsEW/Castaway?type=design&node-id=0:1&t=baI183eUNAoIr3nW-1 )
 - [Домашка](Lectures/4/Lecture) (закончить проект, если не закончили на уроке, обязательно)
 	
 ## 5 урок
