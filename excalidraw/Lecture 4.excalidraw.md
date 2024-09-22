@@ -9,7 +9,7 @@ tags: [excalidraw]
 
 # Excalidraw Data
 ## Text Elements
-[Повторение](../3/Lecture) ^Dy3P5qDm
+[Повторение](lecture3.md) ^Dy3P5qDm
 
 Margin
 Padding

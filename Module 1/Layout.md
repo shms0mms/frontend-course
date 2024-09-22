@@ -18,7 +18,7 @@
     - строчные, блочные теги, чем они различаются
     - Атрибуты - что, для чего и как ими пользоваться
     - практика
-    - [Домашка](Lectures/1/Lecture)
+    - [Домашка](lecture1.md)
 
 ## 2 урок
 
@@ -44,14 +44,14 @@
     - единицы измерения (%, rem, em)
     - font-size, font-family, font-weight, color
     - display
-- [Домашка](Lectures/2/Lecture)
+- [Домашка](lecture2.md)
 
 ## 3 урок 
 
 1. background css
 2. Позиционирование
 3. Псевдо-классы, псевдо-элементы
-- [Домашка](Lectures/3/Lecture)
+- [Домашка](lecture3.md)
 ## 4 урок
 
 - Проверка домашки
@@ -63,21 +63,23 @@
 5. Обучение работы в Figma (просто)
 6. Создание простого сайта в котором будет только секция "**hero**" (найти макет)
 	1. [макет](https://www.figma.com/file/Fn88HQzfmrE7xCHG0yPsEW/Castaway?type=design&node-id=0:1&t=baI183eUNAoIr3nW-1 )
-- [Домашка](Lectures/4/Lecture) (закончить проект, если не закончили на уроке, обязательно)
+- [Домашка](lecture4.md) (закончить проект, если не закончили на уроке, обязательно)
 	
 ## 5 урок
+
+- Проверка домашки
 
 1. Анимация (transition, animation, transform)
 2. технология flexbox
 3. практика по flexbox
-- [Домашка](Lectures/5/Lecture)
+- [Домашка](lecture5.md)
 
 ## 6 урок
 
 - Проверка домашки
 1. grid 
 
-- [Домашка](Lectures/6/Lecture)
+- [Домашка](lecture6.md)
 
 ## 7 урок
 
