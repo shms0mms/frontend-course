@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture2.md",
+                "file": "Lectures/lecture1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/lecture2.md",
+                "file": "Lectures/lecture1.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/lecture2.md",
+                "file": "Lectures/lecture1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/lecture2.md"
+                "file": "Lectures/lecture1.md"
               }
             }
           }
@@ -149,12 +149,12 @@
   },
   "active": "0a6bf3aec0243038",
   "lastOpenFiles": [
+    "Lectures/lecture2.md",
     "Lectures/lecture4.md",
     "Lectures/lecture5.md",
     "Lectures/lecture6.md",
     "Lectures/lecture3.md",
     "Lectures/lecture1.md",
-    "Lectures/lecture2.md",
     "excalidraw/Lecture 1-2.excalidraw.md",
     "excalidraw/Lecture 4.excalidraw.md",
     "excalidraw",

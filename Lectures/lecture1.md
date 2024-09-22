@@ -1,6 +1,5 @@
 
 
-
 ### Теория
 
 #### Что происходит при открытии сайта
@@ -46,7 +45,7 @@
 
 
 1. **Основы HTML**
-
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -73,6 +72,8 @@
     <video controls src="video.mp4">
 </body>
 </html>
+```
+
 
 
 
