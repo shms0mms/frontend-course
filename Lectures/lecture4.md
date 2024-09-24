@@ -36,7 +36,19 @@
       text-decoration: underline; /* Подчёркнутый текст */
     }
     ```
-
+- **`text-transform`** — стилизация текста, например, сделать регистр большой маленький.
+  - Пример:
+    ```css
+    .element {
+      text-transform: uppercase; /* Большой регистр */
+    }
+    .element {
+      text-transform: lowercase; /* Маленький регистр */
+    }
+    .element {
+      text-transform: capitalize; /* Сделать первую букву в слове большой */
+    }
+    ```
 ## 3. Селекторы CSS
 
 Селекторы CSS позволяют выбирать элементы на веб-странице для их стилизации.
