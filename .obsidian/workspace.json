@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sheets/backgroundcss.md",
+                "file": "Sheets/gridcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheets/backgroundcss.md",
+                "file": "Sheets/gridcss.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sheets/backgroundcss.md",
+                "file": "Sheets/gridcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sheets/backgroundcss.md"
+                "file": "Sheets/gridcss.md"
               }
             }
           }
@@ -149,8 +149,13 @@
   },
   "active": "0a6bf3aec0243038",
   "lastOpenFiles": [
-    "Module 1/Layout.md",
+    "Sheets/flexboxcss.md",
+    "Sheets/gridcss.md",
+    "Sheets/animationcss.md",
+    "Sheets/transformcss.md",
+    "Sheets/positioncss.md",
     "Sheets/backgroundcss.md",
+    "Module 1/Layout.md",
     "Lectures/lecture1.md",
     "Sheets/transitioncss.md",
     "Untitled.md",
