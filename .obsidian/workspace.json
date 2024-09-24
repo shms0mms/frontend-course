@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture1.md",
+                "file": "Sheets/backgroundcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#hex",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/lecture1.md",
+                "file": "Sheets/backgroundcss.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/lecture1.md",
+                "file": "Sheets/backgroundcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/lecture1.md"
+                "file": "Sheets/backgroundcss.md"
               }
             }
           }
@@ -147,11 +147,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0a6bf3aec0243038",
+  "active": "1d7305598a6d2f04",
   "lastOpenFiles": [
-    "Sheets/transitioncss.md",
-    "Sheets/backgroundcss.md",
     "Lectures/lecture1.md",
+    "Sheets/backgroundcss.md",
+    "Sheets/transitioncss.md",
     "Untitled.md",
     "Sheets",
     "Lectures/lecture2.md",
