@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Sheets/backgroundcss.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Sheets/backgroundcss.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Sheets/backgroundcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Module 1/Layout.md"
+                "file": "Sheets/backgroundcss.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "0a6bf3aec0243038",
   "lastOpenFiles": [
+    "Module 1/Layout.md",
     "Sheets/backgroundcss.md",
     "Lectures/lecture1.md",
     "Sheets/transitioncss.md",
@@ -167,7 +168,6 @@
     "assets/Pasted Image 20240919133920_323.png",
     "assets/homework 3.psd",
     "assets/homework.psd",
-    "Module 1/Layout.md",
     "Lectures/6",
     "Lectures/5",
     "Lectures/4",
