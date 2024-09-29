@@ -1,52 +1,39 @@
 {
   "main": {
-    "id": "4828536652b6e4d6",
+    "id": "b416d1f7f2c39809",
     "type": "split",
     "children": [
       {
-        "id": "14617300c3b13510",
+        "id": "ba4592f5786b2b91",
         "type": "tabs",
         "children": [
           {
-            "id": "0a6bf3aec0243038",
+            "id": "afe7cf5566918336",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d27094736c44d951",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sheets/positioncss.md",
+                "file": "Lectures/lecture5.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c870bb6d8baecb1",
+    "id": "4a216846dd9b3770",
     "type": "split",
     "children": [
       {
-        "id": "e3074c51425516f0",
+        "id": "6ac9cfa224216cf3",
         "type": "tabs",
         "children": [
           {
-            "id": "1d7305598a6d2f04",
+            "id": "9ff982573fc07e29",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -56,12 +43,12 @@
             }
           },
           {
-            "id": "40066005af7b1a19",
+            "id": "c677db705b57a04a",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -71,7 +58,7 @@
             }
           },
           {
-            "id": "cc027cbc5158d630",
+            "id": "1f6548fde131984e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -85,22 +72,22 @@
     "width": 300
   },
   "right": {
-    "id": "67538eeb5c1355c2",
+    "id": "61e666bb35b72948",
     "type": "split",
     "children": [
       {
-        "id": "68aa53baada624a7",
+        "id": "7470d7c0b0a267d2",
         "type": "tabs",
         "children": [
           {
-            "id": "8eed95274d675451",
+            "id": "aa3379669177e587",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheets/positioncss.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Lectures/lecture5.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -110,19 +97,19 @@
             }
           },
           {
-            "id": "2cd2652170441591",
+            "id": "de95bb6099efd784",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sheets/positioncss.md",
+                "file": "Lectures/lecture5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "27a8b1f7f38aa501",
+            "id": "eb01b431fba3df9c",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -133,16 +120,25 @@
             }
           },
           {
-            "id": "847fbfd5911390ed",
+            "id": "ec1598cca1d8e6de",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sheets/positioncss.md"
+                "file": "Lectures/lecture5.md"
               }
             }
+          },
+          {
+            "id": "e895d1e2873e826c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -156,46 +152,39 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d27094736c44d951",
+  "active": "afe7cf5566918336",
   "lastOpenFiles": [
-    "Sheets/backgroundcss.md",
-    "Sheets/positioncss.md",
-    "Lectures/lecture3.md",
     "Lectures/lecture4.md",
     "Lectures/lecture5.md",
-    "Lectures/lecture1.md",
-    "Lectures/lecture2.md",
     "Module 1/Layout.md",
-    "Sheets/gridcss.md",
-    "Sheets/flexboxcss.md",
-    "Sheets/animationcss.md",
-    "Sheets/transformcss.md",
-    "Sheets/transitioncss.md",
-    "Untitled.md",
-    "Sheets",
-    "Lectures/lecture6.md",
-    "excalidraw/Lecture 1-2.excalidraw.md",
+    "homework.psd",
     "excalidraw/Lecture 4.excalidraw.md",
+    "excalidraw/Lecture 1-2.excalidraw.md",
     "excalidraw",
+    "assets/Pasted Image 20240919133920_323.png",
     "assets/Pasted image 20240912000448.png",
     "assets/Lecture 2.rar",
-    "assets/Pasted Image 20240919133920_323.png",
     "assets/homework 3.psd",
-    "assets/homework.psd",
-    "Lectures/6",
-    "Lectures/5",
-    "Lectures/4",
-    "Домашка.md",
+    "assets",
+    "Sheets/transitioncss.md",
+    "Sheets/transformcss.md",
+    "Sheets/positioncss.md",
+    "Sheets/gridcss.md",
+    "Sheets/flexboxcss.md",
+    "Sheets/backgroundcss.md",
+    "Sheets/animationcss.md",
+    "Sheets",
     "Module 2/React.md",
     "Module 2/Next.md",
-    "Lectures/1",
-    "Lectures/2",
-    "Excalidraw/Drawing 2024-09-12 16.32.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-17 19.42.16.excalidraw.md",
-    "conflict-files-obsidian-git.md"
+    "Module 2",
+    "Module 1",
+    "Lectures/lecture6.md",
+    "Lectures/lecture2.md",
+    "Lectures/lecture3.md",
+    "Lectures/lecture1.md",
+    "Lectures"
   ]
 }
