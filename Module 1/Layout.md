@@ -69,7 +69,7 @@
 
 - Проверка домашки
 
-1. Анимация (transition, animation, transform)
+1. Анимация (transition, animation)
 2. технология flexbox
 3. практика по flexbox
 - [Домашка](lecture5.md)
@@ -78,6 +78,7 @@
 
 - Проверка домашки
 1. grid 
+2. transform
 
 - [Домашка](lecture6.md)
 
