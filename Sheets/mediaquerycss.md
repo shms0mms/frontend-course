@@ -1,8 +1,3 @@
-## Проверка домашки
-
-## 1. Повторение
-- Проверка домашнего задания - [макет](https://www.figma.com/design/AQJogde7ttx3zgZQzhSkPX/User-profile-%26-Settings-screen-(Community)?node-id=11-2369&node-type=frame&t=tOHfSViVV0TxAT4W-0)
-- [Повторить прошлую лекцию](lecture6)
 
 ## Медиа-запросы в CSS
    `@media` запросы (media queries) в CSS — это инструмент для создания адаптивных веб-страниц, которые изменяют стиль в зависимости от устройства (размер экрана, разрешение, ориентация и другие параметры).  
@@ -181,8 +176,3 @@
 	} 
 }
 ```
-
-
-## Домашнее задание
-- Доделать до конца [макет](https://www.figma.com/design/AQJogde7ttx3zgZQzhSkPX/User-profile-%26-Settings-screen-(Community)?node-id=11-2369&node-type=frame&t=tOHfSViVV0TxAT4W-0)
-- Разработать адаптив для мобильного устройства на данном [макете](https://www.figma.com/design/AQJogde7ttx3zgZQzhSkPX/User-profile-%26-Settings-screen-(Community)?node-id=11-2369&node-type=frame&t=tOHfSViVV0TxAT4W-0)(левее от компьютерной версии есть мобильная версия, над ней заголовок "Frame 7")
