@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture8.md",
+                "file": "Sheets/gridcss.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture8"
+              "title": "gridcss"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/lecture8.md",
+                "file": "Sheets/gridcss.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lecture8"
+              "title": "Backlinks for gridcss"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/lecture8.md",
+                "file": "Sheets/gridcss.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lecture8"
+              "title": "Outgoing links from gridcss"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/lecture8.md"
+                "file": "Sheets/gridcss.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of lecture8"
+              "title": "Outline of gridcss"
             }
           }
         ]
@@ -181,7 +181,8 @@
   },
   "active": "d77e3efb24293b0a",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Lectures/lecture9.md"
+    "Lectures/lecture9.md",
+    "Lectures/lecture8.md",
+    "conflict-files-obsidian-git.md"
   ]
 }
