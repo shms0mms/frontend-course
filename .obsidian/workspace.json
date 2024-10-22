@@ -8,49 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a6bf3aec0243038",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/lecture5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture5"
-            }
-          },
-          {
             "id": "d27094736c44d951",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture7.md",
+                "file": "Lectures/lecture9.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture7"
-            }
-          },
-          {
-            "id": "b1795c1cb7a5e33d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/lecture8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "lecture8"
+              "title": "lecture9"
             }
           }
         ],
-        "currentTab": 2
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -81,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hex",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,9 +94,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/lecture8.md",
-                "collapseAll": true,
-                "extraContext": true,
+                "file": "Lectures/lecture9.md",
+                "collapseAll": false,
+                "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -132,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for lecture8"
+              "title": "Backlinks for lecture9"
             }
           },
           {
@@ -141,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/lecture8.md",
+                "file": "Lectures/lecture9.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from lecture8"
+              "title": "Outgoing links from lecture9"
             }
           },
           {
@@ -168,13 +140,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/lecture8.md"
+                "file": "Lectures/lecture9.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of lecture8"
+              "title": "Outline of lecture9"
+            }
+          },
+          {
+            "id": "d16e63cc75c54b55",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {},
+              "icon": "history",
+              "title": "History"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -192,18 +175,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b1795c1cb7a5e33d",
+  "active": "d27094736c44d951",
   "lastOpenFiles": [
-    "Lectures/lecture7.md",
-    "Lectures/lecture6.md",
     "Lectures/lecture8.md",
+    "Lectures/lecture9.md",
+    "Lectures/lecture1.md",
+    "Lectures/lecture2.md",
     "Lectures/lecture4.md",
+    "Lectures/lecture5.md",
+    "Lectures/lecture6.md",
+    "Lectures/lecture7.md",
+    "().md",
+    "Sheets/gridcss.md",
     "assets/Pasted Image 20240919133920_323.png",
     "assets/Pasted image 20240912000448.png",
-    "Lectures/lecture5.md",
     "Sheets/mediaquerycss.md",
-    "Lectures/lecture2.md",
-    "Lectures/lecture1.md",
     "Sheets/flexboxcss.md",
     "Sheets/transformcss.md",
     "Module 1/Layout.md",
@@ -211,7 +197,6 @@
     "conflict-files-obsidian-git.md",
     "Sheets/positioncss.md",
     "Sheets/backgroundcss.md",
-    "Sheets/gridcss.md",
     "Sheets/animationcss.md",
     "Sheets/transitioncss.md",
     "Untitled.md",
@@ -229,8 +214,6 @@
     "Module 2/React.md",
     "Module 2/Next.md",
     "Lectures/1",
-    "Lectures/2",
-    "Excalidraw/Drawing 2024-09-12 16.32.19.excalidraw.md",
-    "Excalidraw/Drawing 2024-09-17 19.42.16.excalidraw.md"
+    "Lectures/2"
   ]
 }
