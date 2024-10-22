@@ -89,7 +89,7 @@
 
 - Ссылка на шпаргалку - https://backgroundcss.vercel.app/
 
-# CSS Position 
+# CSS Position
 
  - Ссылка на шпаргалку - https://positioncss.vercel.app/
 
@@ -98,6 +98,6 @@
 - Ссылка на шпаргалку - https://pseudo-classes-elements.vercel.app/
 
 
-# Домашняя работа
+	# Домашняя работа
 
 - Сверстать сайт который можно найти по ссылке и в чате голосового канала "frontend-разработчик" - https://discord.com/channels/1018791612920377366/1283021881850593432
