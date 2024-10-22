@@ -16,7 +16,9 @@
                 "file": "Lectures/lecture5.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "lecture5"
             }
           },
           {
@@ -28,11 +30,27 @@
                 "file": "Lectures/lecture7.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "lecture7"
+            }
+          },
+          {
+            "id": "b1795c1cb7a5e33d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/lecture8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "lecture8"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -52,7 +70,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -67,7 +87,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -75,7 +97,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lectures/lecture7.md",
+                "file": "Lectures/lecture8.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -106,7 +130,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for lecture8"
             }
           },
           {
@@ -115,10 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lectures/lecture7.md",
+                "file": "Lectures/lecture8.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from lecture8"
             }
           },
           {
@@ -129,7 +157,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lectures/lecture7.md"
-              }
+                "file": "Lectures/lecture8.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of lecture8"
             }
           }
         ]
@@ -160,18 +192,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d27094736c44d951",
+  "active": "b1795c1cb7a5e33d",
   "lastOpenFiles": [
-    "Lectures/lecture5.md",
-    "Lectures/lecture6.md",
     "Lectures/lecture7.md",
+    "Lectures/lecture6.md",
+    "Lectures/lecture8.md",
+    "Lectures/lecture4.md",
+    "assets/Pasted Image 20240919133920_323.png",
+    "assets/Pasted image 20240912000448.png",
+    "Lectures/lecture5.md",
     "Sheets/mediaquerycss.md",
     "Lectures/lecture2.md",
     "Lectures/lecture1.md",
     "Sheets/flexboxcss.md",
     "Sheets/transformcss.md",
     "Module 1/Layout.md",
-    "Lectures/lecture4.md",
     "Lectures/lecture3.md",
     "conflict-files-obsidian-git.md",
     "Sheets/positioncss.md",
@@ -184,9 +219,7 @@
     "excalidraw/Lecture 1-2.excalidraw.md",
     "excalidraw/Lecture 4.excalidraw.md",
     "excalidraw",
-    "assets/Pasted image 20240912000448.png",
     "assets/Lecture 2.rar",
-    "assets/Pasted Image 20240919133920_323.png",
     "assets/homework 3.psd",
     "assets/homework.psd",
     "Lectures/6",
