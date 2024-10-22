@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "4828536652b6e4d6",
+    "id": "9fc3790649a8a272",
     "type": "split",
     "children": [
       {
-        "id": "14617300c3b13510",
+        "id": "4c225e053d6e75aa",
         "type": "tabs",
         "children": [
           {
-            "id": "d27094736c44d951",
+            "id": "5c667447e6d18c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -21,22 +21,21 @@
               "title": "lecture9"
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "6c870bb6d8baecb1",
+    "id": "f4835945e9556f93",
     "type": "split",
     "children": [
       {
-        "id": "e3074c51425516f0",
+        "id": "bfa0c8cd5776c100",
         "type": "tabs",
         "children": [
           {
-            "id": "1d7305598a6d2f04",
+            "id": "e3320c51205d632d",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -48,7 +47,7 @@
             }
           },
           {
-            "id": "40066005af7b1a19",
+            "id": "1f6943bd4d3719b5",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -65,7 +64,7 @@
             }
           },
           {
-            "id": "cc027cbc5158d630",
+            "id": "c1be707469f6741c",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -81,15 +80,15 @@
     "width": 300
   },
   "right": {
-    "id": "67538eeb5c1355c2",
+    "id": "994a1d4667d8c8f6",
     "type": "split",
     "children": [
       {
-        "id": "68aa53baada624a7",
+        "id": "1ad91416925bb75b",
         "type": "tabs",
         "children": [
           {
-            "id": "8eed95274d675451",
+            "id": "5b82e47836515d55",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -108,7 +107,7 @@
             }
           },
           {
-            "id": "2cd2652170441591",
+            "id": "fb119d06f6cf7a5d",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -122,7 +121,7 @@
             }
           },
           {
-            "id": "27a8b1f7f38aa501",
+            "id": "43225226701af893",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -135,7 +134,7 @@
             }
           },
           {
-            "id": "847fbfd5911390ed",
+            "id": "d9a5d444474672bf",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -145,23 +144,13 @@
               "icon": "lucide-list",
               "title": "Outline of lecture9"
             }
-          },
-          {
-            "id": "d16e63cc75c54b55",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {},
-              "icon": "history",
-              "title": "History"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,45 +164,6 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d27094736c44d951",
-  "lastOpenFiles": [
-    "Lectures/lecture8.md",
-    "Lectures/lecture9.md",
-    "Lectures/lecture1.md",
-    "Lectures/lecture2.md",
-    "Lectures/lecture4.md",
-    "Lectures/lecture5.md",
-    "Lectures/lecture6.md",
-    "Lectures/lecture7.md",
-    "().md",
-    "Sheets/gridcss.md",
-    "assets/Pasted Image 20240919133920_323.png",
-    "assets/Pasted image 20240912000448.png",
-    "Sheets/mediaquerycss.md",
-    "Sheets/flexboxcss.md",
-    "Sheets/transformcss.md",
-    "Module 1/Layout.md",
-    "Lectures/lecture3.md",
-    "conflict-files-obsidian-git.md",
-    "Sheets/positioncss.md",
-    "Sheets/backgroundcss.md",
-    "Sheets/animationcss.md",
-    "Sheets/transitioncss.md",
-    "Untitled.md",
-    "Sheets",
-    "excalidraw/Lecture 1-2.excalidraw.md",
-    "excalidraw/Lecture 4.excalidraw.md",
-    "excalidraw",
-    "assets/Lecture 2.rar",
-    "assets/homework 3.psd",
-    "assets/homework.psd",
-    "Lectures/6",
-    "Lectures/5",
-    "Lectures/4",
-    "Домашка.md",
-    "Module 2/React.md",
-    "Module 2/Next.md",
-    "Lectures/1",
-    "Lectures/2"
-  ]
+  "active": "5c667447e6d18c5f",
+  "lastOpenFiles": []
 }
