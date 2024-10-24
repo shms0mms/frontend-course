@@ -1,56 +1,41 @@
 {
   "main": {
-    "id": "9fc3790649a8a272",
+    "id": "eb1b8bc5418d9751",
     "type": "split",
     "children": [
       {
-        "id": "4c225e053d6e75aa",
+        "id": "f600e0d1ee183568",
         "type": "tabs",
         "children": [
           {
-            "id": "5c667447e6d18c5f",
+            "id": "2a73d40b00b989d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture9.md",
+                "file": "Lectures/lecture3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture9"
-            }
-          },
-          {
-            "id": "d77e3efb24293b0a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sheets/gridcss.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gridcss"
+              "title": "lecture3"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f4835945e9556f93",
+    "id": "89ef5ece1843c085",
     "type": "split",
     "children": [
       {
-        "id": "bfa0c8cd5776c100",
+        "id": "53fccfe05bbfc453",
         "type": "tabs",
         "children": [
           {
-            "id": "e3320c51205d632d",
+            "id": "9bf4258bf52c362a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "1f6943bd4d3719b5",
+            "id": "68a428acdaa0e7da",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "c1be707469f6741c",
+            "id": "87f7962e07634c48",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -95,20 +80,20 @@
     "width": 300
   },
   "right": {
-    "id": "994a1d4667d8c8f6",
+    "id": "5a2ceca9b15c786e",
     "type": "split",
     "children": [
       {
-        "id": "1ad91416925bb75b",
+        "id": "07932de26c65ec79",
         "type": "tabs",
         "children": [
           {
-            "id": "5b82e47836515d55",
+            "id": "9d059851efc8474a",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sheets/gridcss.md",
+                "file": "Lectures/lecture3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,25 +103,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gridcss"
+              "title": "Backlinks for lecture3"
             }
           },
           {
-            "id": "fb119d06f6cf7a5d",
+            "id": "0a972cfa9c462900",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sheets/gridcss.md",
+                "file": "Lectures/lecture3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from gridcss"
+              "title": "Outgoing links from lecture3"
             }
           },
           {
-            "id": "43225226701af893",
+            "id": "b8a6943c008aa173",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -149,15 +134,15 @@
             }
           },
           {
-            "id": "d9a5d444474672bf",
+            "id": "2de3933884a9484d",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sheets/gridcss.md"
+                "file": "Lectures/lecture3.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of gridcss"
+              "title": "Outline of lecture3"
             }
           }
         ]
@@ -169,20 +154,52 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d77e3efb24293b0a",
+  "active": "2a73d40b00b989d4",
   "lastOpenFiles": [
+    "Lectures/Untitled.md",
+    "Lectures/lecture3.md",
+    "Lectures/lecture1.md",
+    "Module 2/React.md",
+    "Module 2/Next.md",
+    "Module 1/Layout.md",
+    "2024-10-24.md",
+    "homework.psd",
+    "excalidraw/Lecture 4.excalidraw.md",
+    "excalidraw/Lecture 1-2.excalidraw.md",
+    "excalidraw",
+    "assets/Pasted Image 20240919133920_323.png",
+    "assets/Pasted image 20240912000448.png",
+    "assets/Lecture 2.rar",
+    "assets/homework 3.psd",
+    "assets",
+    "Sheets/positioncss.md",
+    "Sheets/transitioncss.md",
+    "Sheets/transformcss.md",
+    "Sheets/flexboxcss.md",
+    "Sheets/mediaquerycss.md",
+    "Sheets/gridcss.md",
+    "Sheets/backgroundcss.md",
+    "Sheets/animationcss.md",
+    "Sheets",
+    "Module 2",
+    "Module 1",
     "Lectures/lecture9.md",
     "Lectures/lecture8.md",
-    "conflict-files-obsidian-git.md"
+    "Lectures/lecture7.md",
+    "Lectures/lecture6.md",
+    "Lectures/lecture4.md",
+    "Lectures/lecture5.md",
+    "Lectures/lecture2.md",
+    "Lectures"
   ]
 }
