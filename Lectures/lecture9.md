@@ -5,7 +5,8 @@
 - - Доделать hero section на [макете](https://www.figma.com/design/sJwabNIQ83JF9XIGfYCOl4/Simple?node-id=0-1&node-type=canvas&t=75tl415eGMcEFtbY-0) , а именно: сделать адаптивную картинку (справа) с помощью background'а
 + сделать 2 секцию макета, там где много картинок, с адаптивом
 ### Архив с готовым [макетом](https://www.figma.com/design/sJwabNIQ83JF9XIGfYCOl4/Simple?node-id=0-1&node-type=canvas&t=75tl415eGMcEFtbY-0)
-Архив с проектом находиться в телеграмм канале frontend группы
+
+- Архив с проектом находиться в телеграмм канале frontend группы
 архив - https://t.me/c/2339092402/213
 
 
@@ -247,7 +248,7 @@
 
 ## Домашка
 
-- Отточить свои знания по [GridCSS](gridcss)
+- Отточить свои знания по [GridCSS](sheets/gridcss)
 - Применить на практике -> разработать сайт в своём стиле на котором:
 	- Будет адаптированный **header**
 	- Будет секция с товарами (`grid` сетка), также адаптированная для мобилки
