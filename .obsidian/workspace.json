@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture15.md",
+                "file": "JSheets/DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture15"
+              "title": "DOM"
             }
           }
         ]
@@ -166,8 +166,10 @@
   },
   "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
-    "JSheets/functions.md",
+    "JSheets/DOM_lecture15.md",
+    "JSheets/DOM.md",
     "Lectures/lecture15.md",
+    "JSheets/functions.md",
     "JSheets/loops.md",
     "JSheets/conditions.md",
     "Lectures/lecture14.md",
@@ -193,8 +195,6 @@
     "Module 2/Next.md",
     "2024-10-24.md",
     "homework.psd",
-    "excalidraw/Lecture 4.excalidraw.md",
-    "excalidraw/Lecture 1-2.excalidraw.md",
     "excalidraw",
     "assets/Pasted Image 20240919133920_323.png",
     "assets/Pasted image 20240912000448.png",
