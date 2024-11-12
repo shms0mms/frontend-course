@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSheets/conditions.md",
+                "file": "JSheets/условия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conditions"
+              "title": "условия"
             }
           }
         ],
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4258bf52c362a",
+  "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
     "Lectures/lecture15.md",
-    "JSheets/conditions.md",
+    "JSheets/условия.md",
     "CSSheets/backgroundcss.md",
     "CSSheets/animationcss.md",
     "JSheets",
