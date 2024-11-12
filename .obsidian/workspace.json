@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Module 1/Layout.md",
+                "file": "Lectures/Module 1/Layout.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture14.md",
+                "file": "JSheets/Условия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture14"
+              "title": "Условия"
             }
           }
         ],
@@ -181,19 +181,24 @@
   },
   "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
+    "Lectures/lecture15.md",
+    "JSheets/Условия.md",
+    "CSSheets/backgroundcss.md",
+    "CSSheets/animationcss.md",
+    "JSheets",
+    "Lectures/lecture11.md",
+    "Lectures/lecture12.md",
+    "Lectures/lecture14.md",
     "Lectures/lecture13.md",
     "conflict-files-obsidian-git.md",
-    "Lectures/lecture14.md",
-    "Module 1/Layout.md",
-    "Lectures/lecture12.md",
-    "Lectures/lecture11.md",
+    "Lectures/Module 1/Layout.md",
     "Lectures/lecture6.md",
     "Lectures/lecture7.md",
     "Lectures/lecture8.md",
     "Lectures/lecture9.md",
     "Lectures/lecture10.md",
-    "Sheets/flexboxcss.md",
-    "Sheets/gridcss.md",
+    "CSSheets/flexboxcss.md",
+    "CSSheets/gridcss.md",
     "Lectures/lecture1.md",
     "Lectures/lecture3.md",
     "Lectures/Untitled",
@@ -209,15 +214,10 @@
     "assets/Lecture 2.rar",
     "assets/homework 3.psd",
     "assets",
-    "Sheets/positioncss.md",
-    "Sheets/transitioncss.md",
-    "Sheets/transformcss.md",
-    "Sheets/mediaquerycss.md",
-    "Sheets/backgroundcss.md",
-    "Sheets/animationcss.md",
-    "Sheets",
+    "CSSheets/positioncss.md",
+    "CSSheets/transitioncss.md",
+    "CSSheets",
     "Module 2",
-    "Module 1",
-    "Lectures"
+    "Lectures/Module 1"
   ]
 }

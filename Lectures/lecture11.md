@@ -53,7 +53,7 @@
 		- Для телефонов
 ## Домашка
 
-- Повторить [GridCSS](sheets/gridcss) и [FlexboxCSS](sheets/flexboxcss)
+- Повторить [GridCSS](gridcss.md) и [FlexboxCSS](flexboxcss.md)
 - Архив с готовым проектом [simple](https://www.figma.com/design/sJwabNIQ83JF9XIGfYCOl4/Simple?node-id=0-1&node-type=canvas&t=75tl415eGMcEFtbY-0) находится в телеграмм канале frontend группы
 архив - **приложить ссылку после урока**
 - На следующем уроке **тест**
