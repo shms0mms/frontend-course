@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSheets/Условия (IF ELSE).md",
+                "file": "JSheets/Условия(IF_ELSE).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Условия (IF ELSE)"
+              "title": "Условия(IF_ELSE)"
             }
           }
         ],
@@ -179,10 +179,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4258bf52c362a",
+  "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
     "Lectures/lecture15.md",
-    "JSheets/Условия (IF ELSE).md",
+    "JSheets/Условия(IF_ELSE).md",
     "CSSheets/backgroundcss.md",
     "CSSheets/animationcss.md",
     "JSheets",
