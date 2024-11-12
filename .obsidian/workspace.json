@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/Module 1/Layout.md",
+                "file": "Module 1/Layout.md",
                 "mode": "source",
                 "source": false
               },
@@ -191,7 +191,7 @@
     "Lectures/lecture14.md",
     "Lectures/lecture13.md",
     "conflict-files-obsidian-git.md",
-    "Lectures/Module 1/Layout.md",
+    "Module 1/Layout.md",
     "Lectures/lecture6.md",
     "Lectures/lecture7.md",
     "Lectures/lecture8.md",
@@ -218,6 +218,6 @@
     "CSSheets/transitioncss.md",
     "CSSheets",
     "Module 2",
-    "Lectures/Module 1"
+    "Module 1"
   ]
 }
