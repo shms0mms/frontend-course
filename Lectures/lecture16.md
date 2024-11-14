@@ -47,7 +47,7 @@ delete user.age;
 ## 3. Вложенные объекты
 
 - Вложенные объекты позволяют хранить сложные структуры данных.
-  ```javascript
+```javascript
 const company = {
   name: "Tech Corp",
   address: { city: "Moscow", street: "Lenina", number: 5 },
