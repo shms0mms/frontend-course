@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture16.md",
+                "file": "Lectures/lecture17.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture16"
+              "title": "lecture17"
             }
           }
         ]
@@ -165,9 +165,9 @@
   },
   "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
+    "Lectures/lecture16.md",
     "Lectures/lecture17.md",
     "Lectures/lecture15.md",
-    "Lectures/lecture16.md",
     "Lectures/lecture14.md",
     "Lectures/lecture13.md",
     "Lectures/lecture12.md",
