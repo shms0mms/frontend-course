@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture17.md",
+                "file": "JSheets/DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture17"
+              "title": "DOM"
             }
           }
         ]
@@ -165,8 +165,9 @@
   },
   "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
-    "Lectures/lecture16.md",
+    "JSheets/DOM_lecture15.md",
     "Lectures/lecture17.md",
+    "Lectures/lecture16.md",
     "Lectures/lecture15.md",
     "Lectures/lecture14.md",
     "Lectures/lecture13.md",
@@ -183,7 +184,6 @@
     "Lectures/lecture2.md",
     "Lectures/lecture1.md",
     "Module 1/Layout.md",
-    "JSheets/DOM_lecture15.md",
     "JSheets/DOM.md",
     "JSheets/functions.md",
     "JSheets/loops.md",
