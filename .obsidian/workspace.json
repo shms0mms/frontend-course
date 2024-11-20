@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JSheets/DOM.md",
+                "file": "Lectures/lecture16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DOM"
+              "title": "lecture16"
             }
           }
         ]
@@ -154,20 +154,19 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
-    "JSheets/DOM_lecture15.md",
+    "Text Document.txt",
     "JSheets/DOM.md",
+    "JSheets/DOM_lecture15.md",
     "Lectures/lecture15.md",
     "JSheets/functions.md",
     "JSheets/loops.md",
@@ -193,7 +192,6 @@
     "Lectures/Untitled",
     "Module 2/React.md",
     "Module 2/Next.md",
-    "2024-10-24.md",
     "homework.psd",
     "excalidraw",
     "assets/Pasted Image 20240919133920_323.png",
