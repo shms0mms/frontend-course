@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -164,10 +165,10 @@
   },
   "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
+    "Lectures/lecture17.md",
+    "Lectures/lecture18.md",
     "JSheets/DOM_listeners.md",
     "JSheets/DOM_lecture15.md",
-    "Lectures/lecture18.md",
-    "Lectures/lecture17.md",
     "Lectures/lecture16.md",
     "Text Document.txt",
     "JSheets/DOM.md",
