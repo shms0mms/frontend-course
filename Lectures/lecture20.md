@@ -1,0 +1,189 @@
+## Цели урока:
+
+- Научиться манипулировать DOM-элементами с использованием событий.
+- Реализовать интерактивные компоненты (аккордеон, диалоговое окно и поповер).
+- Работать с объектами и массивами в контексте веб-разработки.
+
+---
+
+## Задачи
+
+### 1. Реализация аккордеона
+
+**Задача 1:** Создайте аккордеон, который будет открывать и закрывать панели при клике. Только одна панель может быть открыта одновременно.
+
+#### HTML
+```html
+<div class="accordion">
+  <button class="accordion-header">Заголовок 1</button>
+  <div class="accordion-content">
+    <p>Содержимое панели 1</p>
+  </div>
+
+  <button class="accordion-header">Заголовок 2</button>
+  <div class="accordion-content">
+    <p>Содержимое панели 2</p>
+  </div>
+
+  <button class="accordion-header">Заголовок 3</button>
+  <div class="accordion-content">
+    <p>Содержимое панели 3</p>
+  </div>
+</div>
+```
+#### CSS
+```css
+.accordion-content {
+  display: none;
+  padding: 10px;
+  background-color: #f4f4f4;
+}
+
+.accordion-header.active {
+  background-color: #ccc;
+}
+```
+
+#### JS
+```js
+const headers = document.querySelectorAll('.accordion-header');
+
+headers.forEach(header => {
+  header.addEventListener('click', () => {
+    const content = header.nextElementSibling;
+
+    if (content.style.display === 'block') {
+      content.style.display = 'none';
+      header.classList.remove('active');
+    } else {
+      document.querySelectorAll('.accordion-content').forEach(item => {
+        item.style.display = 'none';
+      });
+      document.querySelectorAll('.accordion-header').forEach(item => {
+        item.classList.remove('active');
+      });
+
+      content.style.display = 'block';
+      header.classList.add('active');
+    }
+  });
+});
+```
+
+---
+
+### 2. Реализация диалогового окна
+
+**Задача 2:** Создайте диалоговое окно, которое открывается при нажатии на кнопку и закрывается при нажатии на кнопку закрытия внутри окна.
+
+#### HTML
+```html
+<button id="open-dialog">Открыть диалог</button>
+
+<div id="dialog" class="dialog">
+  <div class="dialog-content">
+    <span id="close-dialog" class="close-btn">&times;</span>
+    <p>Это диалоговое окно</p>
+  </div>
+</div>
+```
+
+#### CSS
+```css
+.dialog {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5);
+  align-items: center;
+  justify-content: center;
+}
+
+.dialog-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+  width: 300px;
+}
+
+.close-btn {
+  font-size: 30px;
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  cursor: pointer;
+}
+```
+
+#### JS
+```js
+const openDialogButton = document.getElementById('open-dialog');
+const dialog = document.getElementById('dialog');
+const closeDialogButton = document.getElementById('close-dialog');
+
+openDialogButton.addEventListener('click', () => {
+  dialog.style.display = 'flex';
+});
+
+closeDialogButton.addEventListener('click', () => {
+  dialog.style.display = 'none';
+});
+```
+
+---
+
+### 3. Реализация Popover (всплывающее окно)
+
+**Задача 4:** Реализуйте popover (всплывающее окно), которое появляется при наведении на элемент и исчезает при уходе мыши.
+
+#### HTML
+```html
+<button id="popover-trigger" class="popover-trigger">Наведите на меня</button>
+<div id="popover" class="popover">
+  <p>Я - всплывающее окно!</p>
+</div>
+```
+
+#### CSS
+```css
+.popover {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  padding: 10px;
+  border: 1px solid #ccc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.popover-trigger {
+  padding: 10px 20px;
+  background-color: lightblue;
+  border: none;
+  cursor: pointer;
+}
+```
+
+#### JS
+```js
+const popoverTrigger = document.getElementById('popover-trigger');
+const popover = document.getElementById('popover');
+
+popoverTrigger.addEventListener('mouseenter', () => {
+  popover.style.display = 'block';
+});
+
+popoverTrigger.addEventListener('mouseleave', () => {
+  popover.style.display = 'none';
+});
+```
+
+---
+
+## Домашка
+
+**Задача:** Создайте переключатель, который меняет выглядит примерно так:
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/p31s3Zq/switch-off.png" alt="switch-off" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5LPd21S/switch-on.png" alt="switch-on" border="0"></a>

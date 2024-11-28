@@ -31,7 +31,7 @@
 
 ## Повторение
 
-<https://frontend-develop-nine.vercel.app/docs/lectures/lecture17>
+[Лекция 17](https://frontend-develop-nine.vercel.app/docs/lectures/lecture17)
 
 ---
 
@@ -73,7 +73,7 @@ addButton.addEventListener('click', () => {
 ## События
 
 Подробная информация, касаемо событий, можно найти в шпаргалках
-<https://frontend-develop-nine.vercel.app/docs/jssheets/DOM_listeners>
+[События](https://frontend-develop-nine.vercel.app/docs/jssheets/DOM_listeners)
 
 ---
 
@@ -102,4 +102,4 @@ addButton.addEventListener('click', () => {
 	- Есть кнопка **добавить кнопку**
 	- Есть кнопка **удалить кнопку**
 	- При нажатии на каждую кнопку (то есть работа с событиями) менять цвет кнопки на другой
-	- Пример](https://drive.google.com/file/d/12h3rIh6KNQBizS9u4CI-k6tdOrip6QiJ/view?usp=sharing)
+	- [Пример](https://drive.google.com/file/d/12h3rIh6KNQBizS9u4CI-k6tdOrip6QiJ/view?usp=sharing)
