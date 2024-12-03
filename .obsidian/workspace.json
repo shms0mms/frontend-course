@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/lecture20.md",
+                "file": "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "lecture20"
+              "title": "21._Заключительный_урок_по_JavaScript_(повторение)"
             }
           }
         ]
@@ -154,45 +154,44 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1ac03e1b2d38097",
+  "active": "9bf4258bf52c362a",
   "lastOpenFiles": [
-    "Lectures/lecture19.md",
-    "Lectures/lecture20.md",
-    "Lectures/lecture18.md",
-    "Lectures/lecture17.md",
-    "JSheets/DOM_listeners.md",
+    "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
+    "Lectures/19._Практика._Разработка_бургер_меню.md",
+    "Lectures/18._События.md",
+    "Lectures/17._DOM_-_Document_Object_Model.md",
+    "Lectures/16._Объекты,_массивы.md",
+    "Lectures/15._Условия,_циклы,_функции.md",
+    "Lectures/14._Типы_данных.md",
+    "Lectures/13._Стартуем_в_изучении_JavaScript.md",
+    "Lectures/12._Практика._Разработка_боковой_панели.md",
+    "Lectures/11._Заключительное_занятие_по_макету_simple.md",
+    "Lectures/10._Продолжение_разработки_макета_simple.md",
+    "Lectures/9._Погружение_в_GridCSS.md",
+    "Lectures/8._Практика,_вёрстка_макета_simple.md",
+    "Lectures/7._Медиа-запросы._Мобильная_адаптация.md",
+    "Lectures/6._Трансформации.md",
+    "Lectures/5._Анимации_в_CSS._FlexBox.md",
+    "Lectures/3._Псевдоэлементы,_псевдоклассы,_BackGroundCSS,_Позиционированние.md",
+    "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
+    "Lectures/2._Основы_HTML._Подключение_CSS.md",
+    "Lectures/1._Вводный_Урок.md",
+    "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
     "JSheets/DOM_lecture15.md",
-    "Lectures/lecture16.md",
-    "Text Document.txt",
-    "JSheets/DOM.md",
-    "Lectures/lecture15.md",
-    "JSheets/functions.md",
-    "JSheets/loops.md",
-    "JSheets/conditions.md",
-    "Lectures/lecture14.md",
+    "Module 2/Next.md",
     "Module 1/Layout.md",
-    "CSSheets/backgroundcss.md",
-    "CSSheets/animationcss.md",
-    "JSheets",
-    "Lectures/lecture11.md",
-    "Lectures/lecture12.md",
-    "Lectures/lecture13.md",
     "conflict-files-obsidian-git.md",
-    "Lectures/lecture6.md",
-    "Lectures/lecture7.md",
-    "Lectures/lecture8.md",
-    "Lectures/lecture9.md",
-    "Lectures/lecture10.md",
-    "CSSheets/flexboxcss.md",
+    "JSheets/DOM_listeners.md",
+    "JSheets",
     "Lectures/Untitled",
     "homework.psd",
     "excalidraw",
@@ -202,6 +201,7 @@
     "assets/homework 3.psd",
     "assets",
     "CSSheets",
-    "Module 2"
+    "Module 2",
+    "Module 1"
   ]
 }
