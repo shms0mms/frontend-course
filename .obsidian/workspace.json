@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
+                "file": "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "21._Заключительный_урок_по_JavaScript_(повторение)"
+              "title": "20._Практика._Реализация_главных_инструментом_для_удобного_сайта"
             }
           }
         ]
@@ -163,8 +163,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4258bf52c362a",
+  "active": "a1ac03e1b2d38097",
   "lastOpenFiles": [
+    "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
     "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
     "Lectures/19._Практика._Разработка_бургер_меню.md",
     "Lectures/18._События.md",
@@ -185,7 +186,6 @@
     "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
     "Lectures/2._Основы_HTML._Подключение_CSS.md",
     "Lectures/1._Вводный_Урок.md",
-    "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
     "JSheets/DOM_lecture15.md",
     "Module 2/Next.md",
     "Module 1/Layout.md",
