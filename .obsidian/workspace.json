@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
+                "file": "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "20._Практика._Реализация_главных_инструментом_для_удобного_сайта"
+              "title": "21._Заключительный_урок_по_JavaScript_(повторение)"
+            }
+          },
+          {
+            "id": "36f0b08c142f26ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/22._Промисы_и Асинхронность.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "22._Промисы_и Асинхронность"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,10 +178,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a1ac03e1b2d38097",
+  "active": "36f0b08c142f26ca",
   "lastOpenFiles": [
-    "Lectures/19._Практика._Разработка_бургер_меню.md",
+    "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
+    "Lectures/22._Промисы_и Асинхронность.md",
     "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
+    "Lectures/19._Практика._Разработка_бургер_меню.md",
     "JSheets/conditions.md",
     "Module 1/Layout.md",
     "Lectures/2._Основы_HTML._Подключение_CSS.md",
@@ -177,7 +194,6 @@
     "Lectures/10._Продолжение_разработки_макета_simple.md",
     "Lectures/14._Типы_данных.md",
     "Lectures/12._Практика._Разработка_боковой_панели.md",
-    "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
     "conflict-files-obsidian-git.md",
     "Lectures/lecture20.md",
     "Lectures/9._Погружение_в_GridCSS.md",
@@ -190,7 +206,6 @@
     "Lectures/15._Условия,_циклы,_функции.md",
     "Lectures/13._Стартуем_в_изучении_JavaScript.md",
     "Lectures/11._Заключительное_занятие_по_макету_simple.md",
-    "Lectures/lecture17.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
