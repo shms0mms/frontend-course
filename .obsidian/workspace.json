@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f7821a142adb28",
+        "id": "f600e0d1ee183568",
         "type": "tabs",
         "children": [
           {
-            "id": "85a5d8d9f92f3370",
+            "id": "a1ac03e1b2d38097",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/22._Промисы_и Асинхронность.md",
+                "file": "Lectures/22._Промисы_и_Асинхронность.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "22._Промисы_и Асинхронность"
-            }
-          },
-          {
-            "id": "ecc734f04ea6cd39",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/23._HTTP_запросы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "23._HTTP_запросы"
-            }
-          },
-          {
-            "id": "02a17a13f759c71a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/24._Git_и_Github.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "24._Git_и_Github"
+              "title": "22._Промисы_и_Асинхронность"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 300
   },
   "right": {
     "id": "5a2ceca9b15c786e",
@@ -183,44 +154,43 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "02a17a13f759c71a",
+  "active": "9bf4258bf52c362a",
   "lastOpenFiles": [
     "Lectures/23._HTTP_запросы.md",
     "Lectures/24._Git_и_Github.md",
-    "Lectures/22._Промисы_и Асинхронность.md",
+    "Lectures/22._Промисы_и_Асинхронность.md",
     "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
-    "conflict-files-obsidian-git.md",
     "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
-    "Lectures/19._Практика._Разработка_бургер_меню.md",
-    "JSheets/conditions.md",
-    "Module 1/Layout.md",
-    "Lectures/2._Основы_HTML._Подключение_CSS.md",
-    "Lectures/1._Вводный_Урок.md",
-    "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
-    "Lectures/5._Анимации_в_CSS._FlexBox.md",
-    "Lectures/8._Практика,_вёрстка_макета_simple.md",
-    "Lectures/10._Продолжение_разработки_макета_simple.md",
+    "Lectures/15._Условия,_циклы,_функции.md",
     "Lectures/14._Типы_данных.md",
-    "Lectures/12._Практика._Разработка_боковой_панели.md",
-    "Lectures/lecture20.md",
-    "Lectures/9._Погружение_в_GridCSS.md",
-    "Lectures/7._Медиа-запросы._Мобильная_адаптация.md",
-    "Lectures/6._Трансформации.md",
-    "Lectures/3._Псевдоэлементы,_псевдоклассы,_BackGroundCSS,_Позиционированние.md",
+    "Lectures/19._Практика._Разработка_бургер_меню.md",
     "Lectures/18._События.md",
     "Lectures/17._DOM_-_Document_Object_Model.md",
     "Lectures/16._Объекты,_массивы.md",
-    "Lectures/15._Условия,_циклы,_функции.md",
-    "Text Document.txt",
+    "Lectures/13._Стартуем_в_изучении_JavaScript.md",
+    "Lectures/12._Практика._Разработка_боковой_панели.md",
+    "Lectures/11._Заключительное_занятие_по_макету_simple.md",
+    "Lectures/10._Продолжение_разработки_макета_simple.md",
+    "Lectures/9._Погружение_в_GridCSS.md",
+    "Lectures/8._Практика,_вёрстка_макета_simple.md",
+    "Lectures/7._Медиа-запросы._Мобильная_адаптация.md",
+    "Lectures/6._Трансформации.md",
+    "Lectures/5._Анимации_в_CSS._FlexBox.md",
+    "Lectures/3._Псевдоэлементы,_псевдоклассы,_BackGroundCSS,_Позиционированние.md",
+    "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
+    "Lectures/2._Основы_HTML._Подключение_CSS.md",
+    "Lectures/1._Вводный_Урок.md",
+    "JSheets/DOM_lecture15.md",
+    "Module 2/Next.md",
     "JSheets",
     "Lectures/Untitled",
     "homework.psd",
@@ -231,6 +201,7 @@
     "assets/homework 3.psd",
     "assets",
     "CSSheets",
-    "Module 2"
+    "Module 2",
+    "Module 1"
   ]
 }
