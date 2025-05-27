@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/1._Вводный_Урок.md",
+                "file": "Lectures/25._Введение_в_React.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1._Вводный_Урок"
+              "title": "25._Введение_в_React"
+            }
+          },
+          {
+            "id": "d53b29aa757b4f89",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "26._Virtual_DOM,_Состояние_и_Рендеринг"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -164,11 +179,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a1ac03e1b2d38097",
+  "active": "d53b29aa757b4f89",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
-    "Lectures/1._Вводный_Урок.md",
+    "Lectures/6._Трансформации.md",
+    "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
     "Lectures/25._Введение_в_React.md",
+    "Module 2/React.md",
+    "Lectures/1._Вводный_Урок.md",
+    "conflict-files-obsidian-git.md",
     "Lectures/24._Git_и_Github.md",
     "Инструкция для тренера.md",
     "Lectures/23._HTTP_запросы.md",
@@ -188,10 +206,7 @@
     "Lectures/9._Погружение_в_GridCSS.md",
     "Lectures/8._Практика,_вёрстка_макета_simple.md",
     "Lectures/7._Медиа-запросы._Мобильная_адаптация.md",
-    "Lectures/6._Трансформации.md",
     "Lectures/5._Анимации_в_CSS._FlexBox.md",
-    "Lectures/3._Псевдоэлементы,_псевдоклассы,_BackGroundCSS,_Позиционированние.md",
-    "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
     "JSheets",
     "Lectures/Untitled",
     "homework.psd",
