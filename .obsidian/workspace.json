@@ -4,39 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d7f7821a142adb28",
+        "id": "2671b70674e2d3be",
         "type": "tabs",
         "children": [
           {
-            "id": "a19296824c13a41f",
+            "id": "d26cc8a0ce3401bb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/25._Введение_в_React.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "25._Введение_в_React"
-            }
-          },
-          {
-            "id": "97b8e95b38ea4e1e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Lectures/25._Введение_в_React.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "25._Введение_в_React"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -179,9 +160,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "97b8e95b38ea4e1e",
+  "active": "d26cc8a0ce3401bb",
   "lastOpenFiles": [
+    "conflict-files-obsidian-git.md",
     "Lectures/25._Введение_в_React.md",
+    "Module 2/React.md",
+    "Module 2/Next.md",
+    "Module 1/Layout.md",
+    "Инструкция для тренера.md",
     "Lectures/22._Промисы_и_Асинхронность.md",
     "Lectures/23._HTTP_запросы.md",
     "Lectures/24._Git_и_Github.md",
@@ -189,16 +175,12 @@
     "JSheets/DOM_listeners.md",
     "JSheets/DOM.md",
     "JSheets/conditions.md",
-    "Module 2/React.md",
-    "Module 2/Next.md",
-    "conflict-files-obsidian-git.md",
     "Lectures/2._Основы_HTML._Подключение_CSS.md",
     "Lectures/1._Вводный_Урок.md",
     "Lectures/22._Промисы_и Асинхронность.md",
     "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
     "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
     "Lectures/19._Практика._Разработка_бургер_меню.md",
-    "Module 1/Layout.md",
     "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
     "Lectures/5._Анимации_в_CSS._FlexBox.md",
     "Lectures/8._Практика,_вёрстка_макета_simple.md",
@@ -206,7 +188,6 @@
     "Lectures/14._Типы_данных.md",
     "Lectures/12._Практика._Разработка_боковой_панели.md",
     "Lectures/lecture20.md",
-    "Lectures/9._Погружение_в_GridCSS.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
