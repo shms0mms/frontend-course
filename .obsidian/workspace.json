@@ -11,10 +11,14 @@
             "id": "d26cc8a0ce3401bb",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Module 2/React.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "React"
             }
           }
         ]
@@ -163,6 +167,7 @@
   "active": "d26cc8a0ce3401bb",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
+    "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
     "Lectures/25._Введение_в_React.md",
     "Module 2/React.md",
     "Module 2/Next.md",
@@ -187,7 +192,6 @@
     "Lectures/10._Продолжение_разработки_макета_simple.md",
     "Lectures/14._Типы_данных.md",
     "Lectures/12._Практика._Разработка_боковой_панели.md",
-    "Lectures/lecture20.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
