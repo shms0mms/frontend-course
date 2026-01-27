@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/29._useRef_useMemo_useCallback хуки.md",
+                "file": "Lectures/28._SPA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "29._useRef_useMemo_useCallback хуки"
+              "title": "28._SPA"
+            }
+          },
+          {
+            "id": "bd2de6b9816440cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27._Условный_Рендеринг_и_Списки_в_React"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -208,12 +222,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "40a7a120475d753d",
+  "active": "bd2de6b9816440cf",
   "lastOpenFiles": [
-    "Module 2/React.md",
+    "для Вадима.md",
+    "для Маргариты.md",
     "Lectures/29._useRef_useMemo_useCallback хуки.md",
     "Задание для Вадима.md",
     "Lectures/28._SPA.md",
+    "Lectures/6._Трансформации.md",
+    "задание для Маргариты.md",
+    "Module 2/React.md",
     "task.md",
     "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
     "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
@@ -232,10 +250,6 @@
     "Lectures/2._Основы_HTML._Подключение_CSS.md",
     "Lectures/1._Вводный_Урок.md",
     "Lectures/22._Промисы_и Асинхронность.md",
-    "Lectures/21._Заключительный_урок_по_JavaScript_(повторение).md",
-    "Lectures/20._Практика._Реализация_главных_инструментом_для_удобного_сайта.md",
-    "Lectures/19._Практика._Разработка_бургер_меню.md",
-    "Lectures/4._Основы_работы_с_макетом._Подключение_шрифтов._Разработка_реального_макета.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
