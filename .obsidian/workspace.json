@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/30._useContext.md",
+                "file": "Lectures/31._кастомные_хуки.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30._useContext"
+              "title": "31._кастомные_хуки"
             }
           }
         ],
@@ -224,16 +224,21 @@
   },
   "active": "bd2de6b9816440cf",
   "lastOpenFiles": [
-    "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
-    "Lectures/30._useContext.md",
-    "Untitled.md",
-    "Lectures/29._useRef_useMemo_useCallback хуки.md",
-    "для Вадима.md",
-    "для Маргариты.md",
     "Задание для Вадима.md",
+    "Lectures/31._кастомные_хуки.md",
+    "Untitled.md",
     "Lectures/28._SPA.md",
-    "Lectures/6._Трансформации.md",
+    "Задание Маргарите.md",
+    "задачи Ярославу.md",
+    "задание Ярославу и Маргарите.md",
+    "для Вадима.md",
     "задание для Маргариты.md",
+    "задание Вадиму.md",
+    "Lectures/30._useContext.md",
+    "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
+    "Lectures/29._useRef_useMemo_useCallback хуки.md",
+    "для Маргариты.md",
+    "Lectures/6._Трансформации.md",
     "Module 2/React.md",
     "task.md",
     "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
@@ -245,11 +250,6 @@
     "Lectures/22._Промисы_и_Асинхронность.md",
     "Lectures/23._HTTP_запросы.md",
     "Lectures/24._Git_и_Github.md",
-    "JSheets/loops.md",
-    "JSheets/DOM_listeners.md",
-    "JSheets/DOM.md",
-    "JSheets/conditions.md",
-    "Lectures/2._Основы_HTML._Подключение_CSS.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
