@@ -69,16 +69,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/31._кастомные_хуки.md",
+                "file": "Lectures/16._Объекты,_массивы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "31._кастомные_хуки"
+              "title": "16._Объекты,_массивы"
+            }
+          },
+          {
+            "id": "498e6581f09d962b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/32._tailwind_css.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "32._tailwind_css"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -222,19 +236,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bd2de6b9816440cf",
+  "active": "9bf4258bf52c362a",
   "lastOpenFiles": [
     "Задание для Вадима.md",
-    "Lectures/31._кастомные_хуки.md",
-    "Untitled.md",
-    "Lectures/28._SPA.md",
-    "Задание Маргарите.md",
-    "задачи Ярославу.md",
-    "задание Ярославу и Маргарите.md",
-    "для Вадима.md",
+    "Lectures/32._tailwind_css.md",
     "задание для Маргариты.md",
-    "задание Вадиму.md",
+    "Lectures/28._SPA.md",
     "Lectures/30._useContext.md",
+    "задание Ярославу и Маргарите.md",
+    "Задание Маргарите.md",
+    "Lectures/14._Типы_данных.md",
+    "Lectures/16._Объекты,_массивы.md",
+    "Lectures/31._кастомные_хуки.md",
+    "Lectures/15._Условия,_циклы,_функции.md",
+    "задачи Ярославу.md",
+    "для Вадима.md",
+    "задание Вадиму.md",
     "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
     "Lectures/29._useRef_useMemo_useCallback хуки.md",
     "для Маргариты.md",
@@ -247,9 +264,6 @@
     "conflict-files-obsidian-git.md",
     "Module 2/Next.md",
     "Module 1/Layout.md",
-    "Lectures/22._Промисы_и_Асинхронность.md",
-    "Lectures/23._HTTP_запросы.md",
-    "Lectures/24._Git_и_Github.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
