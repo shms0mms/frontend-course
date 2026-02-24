@@ -1,10 +1,18 @@
 {
+  "obsidian-git:commit-specified-message": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
   "obsidian-git:pull": [
     {
       "modifiers": [
         "Alt"
       ],
-      "key": "PageDown"
+      "key": "["
     }
   ],
   "obsidian-git:push2": [
@@ -12,15 +20,7 @@
       "modifiers": [
         "Alt"
       ],
-      "key": "PageUp"
-    }
-  ],
-  "obsidian-git:commit-specified-message": [
-    {
-      "modifiers": [
-        "Alt"
-      ],
-      "key": "\\"
+      "key": "]"
     }
   ]
 }

@@ -212,7 +212,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
@@ -224,8 +223,9 @@
   },
   "active": "bd2de6b9816440cf",
   "lastOpenFiles": [
-    "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
+    "task.md",
     "Lectures/30._useContext.md",
+    "Lectures/27._Условный_Рендеринг_и_Списки_в_React.md",
     "Untitled.md",
     "Lectures/29._useRef_useMemo_useCallback хуки.md",
     "для Вадима.md",
@@ -235,7 +235,6 @@
     "Lectures/6._Трансформации.md",
     "задание для Маргариты.md",
     "Module 2/React.md",
-    "task.md",
     "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
     "Инструкция для тренера.md",
     "Lectures/25._Введение_в_React.md",
