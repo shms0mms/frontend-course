@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/33._Формы.md",
+                "file": "34._ShadcnUI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "33._Формы"
+              "title": "34._ShadcnUI"
             }
           },
           {
@@ -101,7 +101,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Файловый менеджер"
             }
           },
           {
@@ -212,22 +212,23 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false,
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4258bf52c362a",
+  "active": "40a7a120475d753d",
   "lastOpenFiles": [
     "задание для Ярослава.md",
+    "34._ShadcnUI.md",
+    "задание для Вадима.md",
     "Lectures/33._Формы.md",
     "Lectures/28._SPA.md",
-    "задание для Вадима.md",
     "Lectures/30._useContext.md",
     "задачи Ярославу.md",
     "conflict-files-obsidian-git.md",
@@ -249,7 +250,6 @@
     "Инструкция для тренера.md",
     "Lectures/25._Введение_в_React.md",
     "Module 2/Next.md",
-    "Module 1/Layout.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
