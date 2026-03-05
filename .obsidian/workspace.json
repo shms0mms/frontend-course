@@ -55,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "34._ShadcnUI.md",
+                "file": "Lectures/34._ShadcnUI.md",
                 "mode": "source",
                 "source": false
               },
@@ -222,10 +222,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40a7a120475d753d",
+  "active": "9bf4258bf52c362a",
   "lastOpenFiles": [
     "задание для Ярослава.md",
-    "34._ShadcnUI.md",
+    "Lectures/34._ShadcnUI.md",
     "задание для Вадима.md",
     "Lectures/33._Формы.md",
     "Lectures/28._SPA.md",
