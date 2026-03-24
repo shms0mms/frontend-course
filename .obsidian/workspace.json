@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lectures/34._ShadcnUI.md",
+                "file": "Lectures/36._Create_Update_Delete_запросы.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "34._ShadcnUI"
+              "title": "36._Create_Update_Delete_запросы"
             }
           },
           {
@@ -75,6 +75,16 @@
               },
               "icon": "lucide-file",
               "title": "задание для Ярослава"
+            }
+          },
+          {
+            "id": "df9f3cad10017e71",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Новая вкладка"
             }
           }
         ],
@@ -222,11 +232,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9bf4258bf52c362a",
+  "active": "40a7a120475d753d",
   "lastOpenFiles": [
+    "Lectures/35._axios.md",
+    "Lectures/36._Create_Update_Delete_запросы.md",
+    "Lectures/22._Промисы_и_Асинхронность.md",
+    "Lectures/23._HTTP_запросы.md",
     "задание для Ярослава.md",
-    "Lectures/34._ShadcnUI.md",
     "задание для Вадима.md",
+    "Lectures/34._ShadcnUI.md",
     "Lectures/33._Формы.md",
     "Lectures/28._SPA.md",
     "Lectures/30._useContext.md",
@@ -246,10 +260,6 @@
     "Lectures/6._Трансформации.md",
     "задание для Маргариты.md",
     "Module 2/React.md",
-    "Lectures/26._Virtual_DOM,_Состояние_и_Рендеринг.md",
-    "Инструкция для тренера.md",
-    "Lectures/25._Введение_в_React.md",
-    "Module 2/Next.md",
     "Text Document.txt",
     "JSheets",
     "Lectures/Untitled",
